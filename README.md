@@ -9,7 +9,7 @@ This is a simple web application for generating captions for images using a pre-
 
 To run this application, you need to have Python installed on your system. Then, install the required libraries using pip:
 
-bash
+
 pip install gradio numpy pillow transformers torch
 ```
 
