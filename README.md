@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ```
 
-Feel free to contact me ```hardikchhipa28@gmail.com```.
+Feel free to contact me hardikchhipa28@gmail.com.
